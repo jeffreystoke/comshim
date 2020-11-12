@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/go-ole/go-ole"
+	"github.com/bi-zone/go-ole"
 )
 
 // Shim provides control of a thread-locked goroutine that has been initialized

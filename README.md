@@ -50,8 +50,8 @@ package main
 import (
 	"sync"
 
-	"github.com/go-ole/go-ole"
-	"github.com/go-ole/go-ole/oleutil"
+	"github.com/bi-zone/go-ole"
+	"github.com/bi-zone/go-ole/oleutil"
 	"github.com/scjalliance/comshim"
 )
 

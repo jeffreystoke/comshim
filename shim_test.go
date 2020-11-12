@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/go-ole/go-ole/oleutil"
+	"github.com/bi-zone/go-ole/oleutil"
 	"github.com/scjalliance/comshim"
 )
 
