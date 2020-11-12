@@ -5,7 +5,7 @@ import (
 
 	"github.com/bi-zone/go-ole"
 	"github.com/bi-zone/go-ole/oleutil"
-	"github.com/scjalliance/comshim"
+	"github.com/jeffreystoke/comshim"
 )
 
 // Object wraps a COM interface in a way that is safe for multi-threaded access.

@@ -1,4 +1,4 @@
-module github.com/scjalliance/comshim
+module github.com/jeffreystoke/comshim
 
 go 1.15
 

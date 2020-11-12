@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/bi-zone/go-ole/oleutil"
-	"github.com/scjalliance/comshim"
+	"github.com/jeffreystoke/comshim"
 )
 
 func TestConcurrentShims(t *testing.T) {
